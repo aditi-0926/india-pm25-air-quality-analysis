@@ -1,0 +1,1261 @@
+city_name,state_name,year,month_number,month_name,avg_pm25
+Agartala,Tripura,2020,11,November,78.86379029996469
+Agartala,Tripura,2021,1,January,97.95086133069829
+Agartala,Tripura,2022,1,January,117.07061388888889
+Agartala,Tripura,2023,1,January,113.98577537612331
+Agartala,Tripura,2024,1,January,128.7240102639296
+Agra,Uttar Pradesh,2019,1,January,178.4016014811509
+Agra,Uttar Pradesh,2020,11,November,165.3322867063492
+Agra,Uttar Pradesh,2021,11,November,173.30233248160204
+Agra,Uttar Pradesh,2022,1,January,86.98991253882058
+Agra,Uttar Pradesh,2023,11,November,67.86018049221856
+Agra,Uttar Pradesh,2024,11,November,68.279332077177
+Agra,Uttar Pradesh,2025,4,April,45.963497403856316
+Ahmedabad,Gujarat,2019,4,April,96.66665473465935
+Ahmedabad,Gujarat,2020,11,November,80.36088546897122
+Ahmedabad,Gujarat,2021,3,March,72.58976153685025
+Ahmedabad,Gujarat,2022,2,February,74.1892241070759
+Ahmedabad,Gujarat,2023,2,February,79.59062788318695
+Ahmedabad,Gujarat,2024,11,November,75.07705093215291
+Ahmedabad,Gujarat,2025,4,April,53.283929718365435
+Ahmednagar,Maharashtra,2023,10,October,50.38088671685536
+Ahmednagar,Maharashtra,2024,11,November,55.17442129742238
+Aizawl,Mizoram,2020,3,March,38.96199618835816
+Aizawl,Mizoram,2021,3,March,47.69412007222947
+Aizawl,Mizoram,2022,3,March,13.807962408092141
+Aizawl,Mizoram,2023,2,February,19.16547492375049
+Aizawl,Mizoram,2024,2,February,36.81146926536732
+Ajmer,Rajasthan,2019,1,January,62.82435016362787
+Ajmer,Rajasthan,2020,11,November,62.4622831528756
+Ajmer,Rajasthan,2021,11,November,57.49699975949976
+Ajmer,Rajasthan,2022,5,May,72.14572097806355
+Ajmer,Rajasthan,2023,11,November,71.61593437569826
+Ajmer,Rajasthan,2024,1,January,56.38998900293255
+Akola,Maharashtra,2023,10,October,89.25326929445224
+Akola,Maharashtra,2024,2,February,60.680909107134745
+Akola,Maharashtra,2025,4,April,40.71324329161177
+Alwar,Rajasthan,2019,4,April,59.87604366885302
+Alwar,Rajasthan,2020,11,November,58.91145798605344
+Alwar,Rajasthan,2021,11,November,68.04491667764601
+Alwar,Rajasthan,2022,12,December,57.13211473531144
+Alwar,Rajasthan,2023,11,November,83.54565420574795
+Alwar,Rajasthan,2024,1,January,63.92414114648792
+Alwar,Rajasthan,2025,4,April,40.79003495756299
+Amaravati,Andhra Pradesh,2019,1,January,93.18508498377888
+Amaravati,Andhra Pradesh,2020,12,December,80.7608137829912
+Amaravati,Andhra Pradesh,2021,12,December,62.86760752688172
+Amaravati,Andhra Pradesh,2022,11,November,59.19350187406297
+Amaravati,Andhra Pradesh,2023,12,December,63.224771524771526
+Amaravati,Andhra Pradesh,2024,1,January,64.25091456383123
+Ambala,Haryana,2019,11,November,105.00769219367588
+Ambala,Haryana,2020,11,November,112.67542479609762
+Ambala,Haryana,2021,11,November,124.08032295783927
+Ambala,Haryana,2022,11,November,99.98605598688751
+Ambala,Haryana,2023,11,November,78.05628515183778
+Ambala,Haryana,2024,11,November,83.12549447999666
+Amravati,Maharashtra,2023,11,November,65.32251273148148
+Amravati,Maharashtra,2024,1,January,60.01092000472645
+Amravati,Maharashtra,2025,4,April,37.46581186162871
+Amritsar,Punjab,2019,11,November,84.49536158805361
+Amritsar,Punjab,2020,11,November,96.42749906361753
+Amritsar,Punjab,2021,11,November,99.14269688735178
+Amritsar,Punjab,2022,12,December,89.39373357346254
+Amritsar,Punjab,2023,11,November,97.6867040866054
+Amritsar,Punjab,2024,11,November,110.66040667545015
+Amritsar,Punjab,2025,7,July,52.29411978075687
+Anantapur,Andhra Pradesh,2022,10,October,45.69665551621307
+Anantapur,Andhra Pradesh,2023,2,February,34.189611359126985
+Anantapur,Andhra Pradesh,2024,10,October,38.4942368210995
+Anantapur,Andhra Pradesh,2025,6,June,41.1144277015223
+Angul,Odisha,2023,12,December,127.44437456405487
+Angul,Odisha,2024,1,January,148.1718491535773
+Angul,Odisha,2025,9,September,47.5
+Ankleshwar,Gujarat,2019,12,December,86.4152550357612
+Ankleshwar,Gujarat,2020,11,November,88.04960994091311
+Ankleshwar,Gujarat,2021,11,November,118.48255168127278
+Ankleshwar,Gujarat,2022,11,November,93.5476543668955
+Ankleshwar,Gujarat,2023,2,February,81.98973329635109
+Ankleshwar,Gujarat,2024,11,November,71.0710052194088
+Araria,Bihar,2021,12,December,117.87213380949079
+Araria,Bihar,2022,12,December,169.51162671759784
+Araria,Bihar,2023,1,January,170.92490460333917
+Araria,Bihar,2024,1,January,152.40104113480308
+Ariyalur,Tamil Nadu,2022,12,December,35.167211546756384
+Ariyalur,Tamil Nadu,2023,1,January,46.72950033292249
+Ariyalur,Tamil Nadu,2024,3,March,76.51294278393176
+Arrah,Bihar,2021,12,December,167.3025130477916
+Arrah,Bihar,2022,12,December,193.32345704452717
+Arrah,Bihar,2023,1,January,162.69223994779148
+Arrah,Bihar,2024,1,January,147.6280455041696
+Asansol,West Bengal,2019,11,November,110.35391419631092
+Asansol,West Bengal,2020,12,December,122.12544877336683
+Asansol,West Bengal,2021,1,January,117.95558977737468
+Asansol,West Bengal,2022,12,December,140.25982304815335
+Asansol,West Bengal,2023,1,January,130.16361044260984
+Asansol,West Bengal,2024,12,December,123.29740113931904
+Asansol,West Bengal,2025,4,April,41.58276973951974
+Aurangabad,Maharashtra,2019,6,June,71.80642768053204
+Aurangabad,Maharashtra,2020,12,December,51.392966227651065
+Aurangabad,Maharashtra,2021,1,January,46.827473822187564
+Aurangabad,Bihar,2022,12,December,163.57284858356007
+Aurangabad,Maharashtra,2022,2,February,59.12742261904762
+Aurangabad,Bihar,2023,1,January,166.47350540084952
+Aurangabad,Maharashtra,2023,12,December,84.01290448187186
+Aurangabad,Bihar,2024,12,December,97.36635507246376
+Aurangabad,Maharashtra,2024,1,January,84.15249773186011
+Aurangabad,Maharashtra,2025,4,April,37.921328395428624
+Baddi,Himachal Pradesh,2022,12,December,138.1608352534562
+Baddi,Himachal Pradesh,2023,1,January,150.16239019017027
+Baddi,Himachal Pradesh,2024,1,January,162.3510950519015
+Baddi,Himachal Pradesh,2025,5,May,48.94199972138845
+Badlapur,Maharashtra,2023,11,November,80.54242830805467
+Badlapur,Maharashtra,2024,11,November,84.3007555445762
+Badlapur,Maharashtra,2025,4,April,43.74292633948178
+Bagalkot,Karnataka,2020,10,October,71.36602359246643
+Bagalkot,Karnataka,2021,4,April,30.792766563146994
+Bagalkot,Karnataka,2022,1,January,31.78988861617578
+Bagalkot,Karnataka,2023,12,December,24.074740709160327
+Bagalkot,Karnataka,2024,11,November,23.902730833176484
+Baghpat,Uttar Pradesh,2019,11,November,204.92409472837105
+Baghpat,Uttar Pradesh,2020,11,November,213.16810515873016
+Baghpat,Uttar Pradesh,2021,11,November,227.99959239130433
+Baghpat,Uttar Pradesh,2022,11,November,144.70841263903222
+Baghpat,Uttar Pradesh,2023,11,November,163.53926282051282
+Baghpat,Uttar Pradesh,2024,11,November,109.00576545055823
+Bahadurgarh,Haryana,2019,1,January,173.11439933742895
+Bahadurgarh,Haryana,2020,11,November,187.96655923886902
+Bahadurgarh,Haryana,2021,11,November,195.3522042184265
+Bahadurgarh,Haryana,2022,11,November,128.86800714128867
+Bahadurgarh,Haryana,2023,11,November,180.4554580943924
+Bahadurgarh,Haryana,2024,11,November,164.4180214923255
+Balasore,Odisha,2023,12,December,98.6206897162367
+Balasore,Odisha,2024,1,January,148.67570083726463
+Balasore,Odisha,2025,4,April,31.313198784425786
+Ballabgarh,Haryana,2019,12,December,157.49131590345016
+Ballabgarh,Haryana,2020,1,January,149.79049373468203
+Ballabgarh,Haryana,2021,11,November,171.37456922475286
+Ballabgarh,Haryana,2022,11,November,122.30468553286488
+Ballabgarh,Haryana,2023,12,December,155.5618783115163
+Ballabgarh,Haryana,2024,1,January,124.3389034352744
+Banswara,Rajasthan,2023,12,December,81.17859926472345
+Banswara,Rajasthan,2024,5,May,86.4192748702214
+Baran,Rajasthan,2023,11,November,84.65728583099907
+Baran,Rajasthan,2024,11,November,80.20142330917875
+Barbil,Odisha,2023,12,December,74.77544186518878
+Barbil,Odisha,2024,1,January,90.23029803646564
+Bareilly,Uttar Pradesh,2022,12,December,71.53709271745475
+Bareilly,Uttar Pradesh,2023,11,November,71.54674772546862
+Bareilly,Uttar Pradesh,2024,1,January,39.98934677343942
+Bareilly,Uttar Pradesh,2025,4,April,18.181961165548362
+Baripada,Odisha,2022,12,December,94.94952435156807
+Baripada,Odisha,2023,1,January,98.9622984014035
+Baripada,Odisha,2024,1,January,114.06910416467814
+Barmer,Rajasthan,2023,11,November,75.43085245571659
+Barmer,Rajasthan,2024,12,December,58.39574200227075
+Barrackpore,West Bengal,2023,12,December,98.5551023950434
+Barrackpore,West Bengal,2024,12,December,117.70253672876775
+Barrackpore,West Bengal,2025,4,April,28.604109822866345
+Bathinda,Punjab,2019,11,November,80.65000648148148
+Bathinda,Punjab,2020,11,November,82.0219865840681
+Bathinda,Punjab,2021,1,January,70.20475808968105
+Bathinda,Punjab,2022,11,November,76.19780561534897
+Bathinda,Punjab,2023,11,November,164.60639351250603
+Bathinda,Punjab,2024,6,June,75.4696575142947
+Belagavi,Karnataka,2022,12,December,62.552720305864284
+Belagavi,Karnataka,2023,1,January,72.96038655085691
+Belagavi,Karnataka,2024,11,November,37.10424204479096
+Belapur,Maharashtra,2023,12,December,49.844768305171534
+Belapur,Maharashtra,2024,11,November,65.80255555555556
+Bengaluru,Karnataka,2019,1,January,54.46068704373314
+Bengaluru,Karnataka,2020,2,February,42.11920391286692
+Bengaluru,Karnataka,2021,12,December,52.62229428972067
+Bengaluru,Karnataka,2022,11,November,46.77347282604878
+Bengaluru,Karnataka,2023,2,February,53.680103970756434
+Bengaluru,Karnataka,2024,3,March,50.83415072084371
+Bengaluru,Karnataka,2025,4,April,28.823155136848765
+Bettiah,Bihar,2021,12,December,157.39172316486287
+Bettiah,Bihar,2022,12,December,262.13561591533846
+Bettiah,Bihar,2023,1,January,246.88202376762226
+Bettiah,Bihar,2024,11,November,82.07988517236193
+Bhagalpur,Bihar,2021,11,November,140.07920921168204
+Bhagalpur,Bihar,2022,12,December,213.82146616940796
+Bhagalpur,Bihar,2023,1,January,212.3541172743263
+Bhagalpur,Bihar,2024,1,January,205.76441805055953
+Bharatpur,Rajasthan,2023,11,November,151.4325467585851
+Bharatpur,Rajasthan,2024,1,January,95.48190517714976
+Bhilai,Chhattisgarh,2021,11,November,27.29565476190476
+Bhilai,Chhattisgarh,2022,10,October,39.29651853354091
+Bhilai,Chhattisgarh,2023,12,December,54.85056443767256
+Bhilai,Chhattisgarh,2024,11,November,58.992636790139855
+Bhilai,Chhattisgarh,2025,4,April,26.02537940864825
+Bhilwara,Rajasthan,2023,12,December,99.24935359025034
+Bhilwara,Rajasthan,2024,1,January,84.49441507244234
+Bhiwadi,Rajasthan,2019,1,January,156.13670380776307
+Bhiwadi,Rajasthan,2020,11,November,195.57462238272998
+Bhiwadi,Rajasthan,2021,11,November,195.0520250094109
+Bhiwadi,Rajasthan,2022,4,April,153.62938386894572
+Bhiwadi,Rajasthan,2023,11,November,186.2557855194021
+Bhiwadi,Rajasthan,2024,11,November,135.66212779444672
+Bhiwandi,Maharashtra,2023,12,December,83.59781915901445
+Bhiwandi,Maharashtra,2024,11,November,88.11573611111112
+Bhiwani,Haryana,2019,11,November,144.7281412236399
+Bhiwani,Haryana,2020,1,January,82.23415886769091
+Bhiwani,Haryana,2021,11,November,150.98732832715848
+Bhiwani,Haryana,2022,11,November,116.85601347647095
+Bhiwani,Haryana,2023,11,November,156.22891671546384
+Bhiwani,Haryana,2024,11,November,141.06994257655006
+Bhopal,Madhya Pradesh,2019,11,November,89.59203772565472
+Bhopal,Madhya Pradesh,2020,11,November,85.49116999514597
+Bhopal,Madhya Pradesh,2021,11,November,99.95694444444445
+Bhopal,Madhya Pradesh,2022,11,November,110.47473995526255
+Bhopal,Madhya Pradesh,2023,11,November,111.93814230103062
+Bhopal,Madhya Pradesh,2024,11,November,99.30935565099153
+Bhopal,Madhya Pradesh,2025,4,April,36.55318071071831
+Bhubaneswar,Odisha,2023,12,December,98.49293767568817
+Bhubaneswar,Odisha,2024,1,January,114.60409563262824
+Bhubaneswar,Odisha,2025,6,June,24.05103851010101
+Bidar,Karnataka,2021,1,January,54.117023185993155
+Bidar,Karnataka,2022,10,October,21.0
+Bidar,Karnataka,2023,6,June,94.4625
+Bidar,Karnataka,2024,1,January,67.6249676916221
+Bihar Sharif,Bihar,2021,11,November,173.4822969948849
+Bihar Sharif,Bihar,2022,12,December,221.99322005279484
+Bihar Sharif,Bihar,2023,1,January,176.00989914298358
+Bihar Sharif,Bihar,2024,12,December,97.93795060052884
+Bikaner,Rajasthan,2023,11,November,156.31607744107745
+Bikaner,Rajasthan,2024,1,January,131.08456521739132
+Bilaspur,Chhattisgarh,2021,10,October,28.621445632441425
+Bilaspur,Chhattisgarh,2022,10,October,28.917728494623656
+Bilaspur,Chhattisgarh,2023,12,December,49.67096125679625
+Bilaspur,Chhattisgarh,2024,1,January,53.48634793599731
+Bileipada,Odisha,2022,12,December,72.05233400803264
+Bileipada,Odisha,2023,1,January,127.77753987027452
+Bileipada,Odisha,2024,1,January,96.38529125771683
+Boisar,Maharashtra,2023,12,December,81.57575921594548
+Boisar,Maharashtra,2024,1,January,84.50620820577083
+Brajrajnagar,Odisha,2019,1,January,111.26599345488546
+Brajrajnagar,Odisha,2020,12,December,87.1820449657869
+Brajrajnagar,Odisha,2021,1,January,77.59478474385206
+Brajrajnagar,Odisha,2022,9,September,478.23209523809527
+Brajrajnagar,Odisha,2023,6,June,49.6212362826999
+Brajrajnagar,Odisha,2024,1,January,44.40779576571162
+Bulandshahr,Uttar Pradesh,2019,1,January,194.6626330804539
+Bulandshahr,Uttar Pradesh,2020,12,December,225.91499073331997
+Bulandshahr,Uttar Pradesh,2021,11,November,205.96955012077294
+Bulandshahr,Uttar Pradesh,2022,1,January,122.14969787283778
+Bulandshahr,Uttar Pradesh,2023,11,November,117.16517609123949
+Bulandshahr,Uttar Pradesh,2024,11,November,120.1218125
+Bundi,Rajasthan,2023,11,November,90.46115420842617
+Bundi,Rajasthan,2024,1,January,99.90137700839674
+Byasanagar,Odisha,2023,11,November,73.32420199805068
+Byasanagar,Odisha,2024,1,January,104.26255985454839
+Byrnihat,Assam,2022,12,December,234.47913576555024
+Byrnihat,Assam,2023,1,January,278.1597270920991
+Byrnihat,Assam,2024,12,December,195.10641165143872
+Chamarajanagar,Karnataka,2019,12,December,32.297426499651245
+Chamarajanagar,Karnataka,2020,10,October,52.42749366937411
+Chamarajanagar,Karnataka,2021,2,February,43.487086240048605
+Chamarajanagar,Karnataka,2022,3,March,19.04111972843845
+Chamarajanagar,Karnataka,2023,11,November,19.70234872404166
+Chamarajanagar,Karnataka,2024,3,March,19.738820710612437
+Chandigarh,Chandigarh,2019,11,November,76.28625423399718
+Chandigarh,Chandigarh,2020,12,December,57.97620266479663
+Chandigarh,Chandigarh,2021,12,December,77.90643523949169
+Chandigarh,Chandigarh,2022,12,December,105.18426674792083
+Chandigarh,Chandigarh,2023,1,January,129.50113956616016
+Chandigarh,Chandigarh,2024,1,January,152.1603632402696
+Chandigarh,Chandigarh,2025,4,April,46.12535465173187
+Chandrapur,Maharashtra,2019,11,November,59.27942614379085
+Chandrapur,Maharashtra,2020,12,December,73.16171720228242
+Chandrapur,Maharashtra,2021,12,December,82.81987807599133
+Chandrapur,Maharashtra,2022,12,December,76.55446919996069
+Chandrapur,Maharashtra,2023,11,November,78.15226174039829
+Chandrapur,Maharashtra,2024,1,January,76.77459146339704
+Chandrapur,Maharashtra,2025,9,September,64.750625
+Charkhi Dadri,Haryana,2020,11,November,178.4802919831075
+Charkhi Dadri,Haryana,2021,11,November,198.31767010236987
+Charkhi Dadri,Haryana,2022,4,April,113.78649798516383
+Charkhi Dadri,Haryana,2023,11,November,120.6289404093911
+Charkhi Dadri,Haryana,2024,11,November,134.28781301367715
+Chengalpattu,Tamil Nadu,2022,10,October,63.66259596105649
+Chengalpattu,Tamil Nadu,2023,1,January,62.928738235295306
+Chengalpattu,Tamil Nadu,2024,6,June,332.62
+Chennai,Tamil Nadu,2019,2,February,78.81886831827593
+Chennai,TamilNadu,2019,1,January,64.06548801898441
+Chennai,TamilNadu,2020,1,January,45.65769686870888
+Chennai,Tamil Nadu,2020,12,December,42.50156394591072
+Chennai,TamilNadu,2021,12,December,44.561343277868176
+Chennai,Tamil Nadu,2021,2,February,43.96893227491586
+Chennai,Tamil Nadu,2022,12,December,56.14058901111356
+Chennai,TamilNadu,2022,12,December,38.127830305866766
+Chennai,Tamil Nadu,2023,1,January,65.59887044016492
+Chennai,TamilNadu,2023,1,January,42.46088944865607
+Chennai,Tamil Nadu,2024,1,January,60.21344515904944
+Chennai,TamilNadu,2024,1,January,40.77706485111466
+Chennai,Tamil Nadu,2025,1,January,61.05376344086021
+Chennai,TamilNadu,2025,9,September,27.94295634920635
+Chhal,Chhattisgarh,2023,1,January,42.72500736669573
+Chhal,Chhattisgarh,2024,4,April,48.4101523432166
+Chhapra,Bihar,2021,11,November,219.93617724867727
+Chhapra,Bihar,2022,12,December,240.07803652920728
+Chhapra,Bihar,2023,1,January,201.32238293395542
+Chhapra,Bihar,2024,1,January,152.4092628913221
+Chikkaballapur,Karnataka,2019,1,January,55.429125093296584
+Chikkaballapur,Karnataka,2020,11,November,40.70509661835749
+Chikkaballapur,Karnataka,2021,12,December,45.94276869417583
+Chikkaballapur,Karnataka,2022,2,February,52.03645833333333
+Chikkaballapur,Karnataka,2023,2,February,54.8181159575074
+Chikkaballapur,Karnataka,2024,1,January,49.05128314299072
+Chikkamagaluru,Karnataka,2020,2,February,40.37565566378066
+Chikkamagaluru,Karnataka,2021,3,March,46.91653758933955
+Chikkamagaluru,Karnataka,2022,2,February,24.29162504255782
+Chikkamagaluru,Karnataka,2023,2,February,27.781505588257208
+Chikkamagaluru,Karnataka,2024,1,January,27.921282461860375
+Chittoor,Andhra Pradesh,2022,12,December,56.9041158008658
+Chittoor,Andhra Pradesh,2023,10,October,62.335444388740335
+Chittoor,Andhra Pradesh,2024,11,November,49.14727210567211
+Chittoor,Andhra Pradesh,2025,4,April,46.96040398550725
+Chittorgarh,Rajasthan,2023,12,December,98.40285080809275
+Chittorgarh,Rajasthan,2024,1,January,88.07664073775896
+Churu,Rajasthan,2023,11,November,166.39247685185185
+Churu,Rajasthan,2024,11,November,119.90261814574315
+Coimbatore,TamilNadu,2019,12,December,38.46786238598696
+Coimbatore,TamilNadu,2020,12,December,45.65146190791674
+Coimbatore,TamilNadu,2021,3,March,50.10322222222222
+Coimbatore,TamilNadu,2022,12,December,54.37137422360249
+Coimbatore,TamilNadu,2023,5,May,67.56375125983332
+Coimbatore,TamilNadu,2024,1,January,53.18959358482524
+Cuddalore,Tamil Nadu,2023,12,December,41.53056861056156
+Cuddalore,Tamil Nadu,2024,10,October,42.83833178180125
+Cuttack,Odisha,2023,12,December,100.53238857721676
+Cuttack,Odisha,2024,1,January,124.82879443964048
+Cuttack,Odisha,2025,5,May,36.42527460513453
+Damoh,Madhya Pradesh,2019,1,January,88.07864189252777
+Damoh,Madhya Pradesh,2020,12,December,74.01778517999065
+Damoh,Madhya Pradesh,2021,1,January,86.33012155212717
+Damoh,Madhya Pradesh,2022,1,January,56.97682737518885
+Damoh,Madhya Pradesh,2023,1,January,31.840551747311828
+Damoh,Madhya Pradesh,2024,12,December,61.29683127377818
+Darbhanga,Bihar,2021,12,December,179.48384685868908
+Darbhanga,Bihar,2022,12,December,273.7561225736629
+Darbhanga,Bihar,2023,1,January,243.50794216748164
+Dausa,Rajasthan,2023,11,November,133.77718667895584
+Dausa,Rajasthan,2024,1,January,79.84710160865315
+Davanagere,Karnataka,2021,12,December,36.60645890052612
+Davanagere,Karnataka,2022,3,March,41.120615294009404
+Davanagere,Karnataka,2023,2,February,46.6894241648139
+Davanagere,Karnataka,2024,11,November,48.00381066937679
+Davanagere,Karnataka,2025,4,April,32.68665983328341
+Dehradun,Uttarakhand,2022,12,December,73.94372575522303
+Dehradun,Uttarakhand,2023,1,January,71.66384101055195
+Dehradun,Uttarakhand,2024,1,January,108.02482863851903
+Dehradun,Uttarakhand,2025,4,April,39.91675338684326
+Delhi,Delhi,2019,12,December,205.8904488842857
+Delhi,Delhi,2020,11,November,214.2317911218778
+Delhi,Delhi,2021,11,November,237.93856457068847
+Delhi,Delhi,2022,11,November,181.28202284818602
+Delhi,Delhi,2023,11,November,240.0577719908366
+Delhi,Delhi,2024,11,November,248.1585584841369
+Delhi,Delhi,2025,4,April,76.60161242599779
+Dewas,Madhya Pradesh,2019,1,January,65.2293840923466
+Dewas,Madhya Pradesh,2020,11,November,65.11180555555556
+Dewas,Madhya Pradesh,2021,1,January,66.68100409684801
+Dewas,Madhya Pradesh,2022,5,May,67.52613095516523
+Dewas,Madhya Pradesh,2023,11,November,77.90467875036842
+Dewas,Madhya Pradesh,2024,11,November,73.15762121212121
+Dewas,Madhya Pradesh,2025,4,April,52.74449887069452
+Dhanbad,Jharkhand,2023,4,April,119.82871113306983
+Dhanbad,Jharkhand,2024,8,August,222.86629120879118
+Dhanbad,Jharkhand,2025,5,May,37.79184561461214
+Dharuhera,Haryana,2019,11,November,133.79828402973837
+Dharuhera,Haryana,2020,12,December,185.82509803825883
+Dharuhera,Haryana,2021,11,November,144.37535329953525
+Dharuhera,Haryana,2022,11,November,150.22694999037685
+Dharuhera,Haryana,2023,11,November,156.99656756226176
+Dharuhera,Haryana,2024,11,November,133.90454674069892
+Dharwad,Karnataka,2022,11,November,63.462305075828354
+Dharwad,Karnataka,2023,2,February,88.62152734203036
+Dharwad,Karnataka,2024,4,April,41.06955482722733
+Dharwad,Karnataka,2025,4,April,30.847522348069663
+Dholpur,Rajasthan,2023,11,November,209.18986092032966
+Dholpur,Rajasthan,2024,1,January,135.2424701080718
+Dhule,Maharashtra,2023,11,November,85.3063812462095
+Dhule,Maharashtra,2024,11,November,88.89410021801869
+Dindigul,Tamil Nadu,2022,12,December,42.13504169123952
+Dindigul,Tamil Nadu,2023,1,January,43.556081526145924
+Dindigul,Tamil Nadu,2024,11,November,42.418650498048194
+Dungarpur,Rajasthan,2023,11,November,72.96948387763605
+Dungarpur,Rajasthan,2024,1,January,76.32736537090527
+Durgapur,West Bengal,2024,12,December,146.58676997130758
+Durgapur,West Bengal,2025,4,April,26.74085930305075
+Eloor,Kerala,2019,7,July,14.525003581943194
+Eloor,Kerala,2020,2,February,23.51678784679089
+Eloor,Kerala,2021,1,January,35.52281140016369
+Eloor,Kerala,2022,3,March,39.19238095238096
+Eloor,Kerala,2023,3,March,43.67088846916972
+Eloor,Kerala,2024,11,November,42.109484168609164
+Ernakulam,Kerala,2020,1,January,48.887237854737855
+Ernakulam,Kerala,2021,2,February,50.96097383866134
+Ernakulam,Kerala,2022,3,March,41.97304378436742
+Faridabad,Haryana,2019,1,January,199.84029486028365
+Faridabad,Haryana,2020,11,November,186.6723519881952
+Faridabad,Haryana,2021,11,November,210.40056519679814
+Faridabad,Haryana,2022,11,November,147.6910236260429
+Faridabad,Haryana,2023,11,November,207.1724968453217
+Faridabad,Haryana,2024,1,January,155.14160437118085
+Faridabad,Haryana,2025,4,April,76.49895833333333
+Fatehabad,Haryana,2019,1,January,116.8936199172101
+Fatehabad,Haryana,2020,11,November,245.3742422912074
+Fatehabad,Haryana,2021,11,November,140.25052651515153
+Fatehabad,Haryana,2022,11,November,116.5461584667221
+Fatehabad,Haryana,2023,11,November,210.93447013711403
+Fatehabad,Haryana,2024,11,November,108.0609009849259
+Firozabad,Uttar Pradesh,2021,11,November,178.27269620114188
+Firozabad,Uttar Pradesh,2022,1,January,100.37442863879926
+Firozabad,Uttar Pradesh,2023,11,November,72.80172044182048
+Firozabad,Uttar Pradesh,2024,1,January,62.35365872673683
+Firozabad,Uttar Pradesh,2025,4,April,36.41992214738409
+Gadag,Karnataka,2021,10,October,91.88784025974027
+Gadag,Karnataka,2022,1,January,73.43709547314708
+Gadag,Karnataka,2023,5,May,36.643390343460865
+Gadag,Karnataka,2024,1,January,29.102993886849863
+Gandhinagar,Gujarat,2019,2,February,50.962011411262274
+Gandhinagar,Gujarat,2020,11,November,48.12079671717172
+Gandhinagar,Gujarat,2021,12,December,55.23176132726554
+Gandhinagar,Gujarat,2022,2,February,76.12350096741595
+Gandhinagar,Gujarat,2023,2,February,77.22634349446848
+Gandhinagar,Gujarat,2024,11,November,61.52242521454994
+Gangtok,Sikkim,2022,12,December,33.03033333333333
+Gangtok,Sikkim,2023,2,February,48.64403399444758
+Gangtok,Sikkim,2024,12,December,32.936524199488254
+Gaya,Bihar,2019,1,January,196.4806399917287
+Gaya,Bihar,2020,1,January,96.35970371669003
+Gaya,Bihar,2021,12,December,104.77416953412515
+Gaya,Bihar,2022,12,December,157.4053654312833
+Gaya,Bihar,2023,1,January,155.90658444792092
+Gaya,Bihar,2024,1,January,88.35059888347936
+Gaya,Bihar,2025,4,April,42.87518546252204
+Ghaziabad,Uttar Pradesh,2019,11,November,240.02617634680135
+Ghaziabad,Uttar Pradesh,2020,11,November,262.26700883054144
+Ghaziabad,Uttar Pradesh,2021,11,November,275.5895837272354
+Ghaziabad,Uttar Pradesh,2022,1,January,153.14674163030492
+Ghaziabad,Uttar Pradesh,2023,11,November,193.95164368502103
+Ghaziabad,Uttar Pradesh,2024,11,November,173.899227979066
+Ghaziabad,Uttar Pradesh,2025,4,April,93.38722559266525
+Gorakhpur,Uttar Pradesh,2021,11,November,141.58757197633287
+Gorakhpur,Uttar Pradesh,2022,1,January,65.27233382209188
+Gorakhpur,Uttar Pradesh,2023,11,November,85.68269213991418
+Gorakhpur,Uttar Pradesh,2024,1,January,68.83787379555928
+Gorakhpur,Uttar Pradesh,2025,4,April,48.75311306718643
+Greater Noida,Uttar Pradesh,2019,12,December,218.67244012707724
+Greater Noida,Uttar Pradesh,2020,12,December,223.37549255326252
+Greater Noida,Uttar Pradesh,2021,11,November,209.4457530828884
+Greater Noida,Uttar Pradesh,2022,12,December,164.44815071295
+Greater Noida,Uttar Pradesh,2023,11,November,221.96111854329246
+Greater Noida,Uttar Pradesh,2024,1,January,172.7289260880733
+Gummidipoondi,TamilNadu,2021,2,February,71.23422619047619
+Gummidipoondi,TamilNadu,2022,12,December,70.69736700336699
+Gummidipoondi,TamilNadu,2023,12,December,90.70826268849585
+Gummidipoondi,TamilNadu,2024,1,January,90.39968352883675
+Gurugram,Haryana,2019,11,November,181.20420956851117
+Gurugram,Haryana,2020,11,November,190.5924730495471
+Gurugram,Haryana,2021,11,November,214.9779522729007
+Gurugram,Haryana,2022,11,November,150.16475534341177
+Gurugram,Haryana,2023,11,November,178.7854915398577
+Gurugram,Haryana,2024,11,November,157.70586488689685
+Guwahati,Assam,2019,12,December,123.86665270213656
+Guwahati,Assam,2020,1,January,144.2433894505253
+Guwahati,Assam,2021,1,January,145.99572852852305
+Guwahati,Assam,2022,1,January,113.11598055383551
+Guwahati,Assam,2023,1,January,146.99882125007196
+Guwahati,Assam,2024,1,January,130.82095563086787
+Guwahati,Assam,2025,4,April,53.550070176784665
+Gwalior,Madhya Pradesh,2020,12,December,143.67965458180097
+Gwalior,Madhya Pradesh,2021,1,January,134.51129032258066
+Gwalior,Madhya Pradesh,2022,12,December,164.2777478837328
+Gwalior,Madhya Pradesh,2023,1,January,150.4987274029464
+Gwalior,Madhya Pradesh,2024,11,November,111.35488381180681
+Gwalior,Madhya Pradesh,2025,4,April,58.617936180092116
+Hajipur,Bihar,2020,12,December,64.37086379904315
+Hajipur,Bihar,2021,11,November,124.28462734469282
+Hajipur,Bihar,2022,12,December,129.66866576761248
+Hajipur,Bihar,2023,1,January,111.71349732442374
+Hajipur,Bihar,2024,11,November,168.52718341803123
+Haldia,West Bengal,2023,1,January,66.96494878034467
+Haldia,West Bengal,2024,12,December,93.42257251689405
+Haldia,West Bengal,2025,9,September,23.491250000000004
+Hanumangarh,Rajasthan,2023,11,November,235.36350744766506
+Hanumangarh,Rajasthan,2024,1,January,165.30514205873604
+Hapur,Uttar Pradesh,2019,1,January,190.8060513090229
+Hapur,Uttar Pradesh,2020,11,November,78.95078914141413
+Hapur,Uttar Pradesh,2021,11,November,223.41062801932367
+Hapur,Uttar Pradesh,2022,1,January,112.63924723273823
+Hapur,Uttar Pradesh,2023,11,November,136.60648148148147
+Hapur,Uttar Pradesh,2024,11,November,150.89842592592592
+Hassan,Karnataka,2021,3,March,55.744982667091364
+Hassan,Karnataka,2022,3,March,44.252810713527424
+Hassan,Karnataka,2023,2,February,40.92231971288959
+Hassan,Karnataka,2024,1,January,42.88797431773966
+Haveri,Karnataka,2022,11,November,49.954556869292624
+Haveri,Karnataka,2023,12,December,56.995215684818405
+Haveri,Karnataka,2024,1,January,49.59788171351258
+Hisar,Haryana,2019,11,November,191.55101902731136
+Hisar,Haryana,2020,11,November,208.5240293854696
+Hisar,Haryana,2021,11,November,217.25276304975216
+Hisar,Haryana,2022,11,November,117.24955347731978
+Hisar,Haryana,2023,11,November,179.63165113566654
+Hisar,Haryana,2024,11,November,125.20593829078352
+Hosur,Tamil Nadu,2022,12,December,44.17595637867115
+Hosur,Tamil Nadu,2023,2,February,70.94991296808796
+Howrah,West Bengal,2019,1,January,203.08217823749416
+Howrah,West Bengal,2020,12,December,140.67302941806415
+Howrah,West Bengal,2021,1,January,126.27286310333346
+Howrah,West Bengal,2022,12,December,106.32995689969218
+Howrah,West Bengal,2023,1,January,103.94537980865559
+Howrah,West Bengal,2024,12,December,118.43204679331889
+Howrah,West Bengal,2025,4,April,27.80881266194554
+Hubballi,Karnataka,2019,8,August,71.57480303030303
+Hubballi,Karnataka,2020,12,December,49.346695076922614
+Hubballi,Karnataka,2021,3,March,57.80569038897055
+Hubballi,Karnataka,2022,11,November,51.33847582580463
+Hubballi,Karnataka,2023,2,February,54.88916189528949
+Hubballi,Karnataka,2024,11,November,43.68214740503348
+Hubballi,Karnataka,2025,4,April,21.752027898550725
+Hyderabad,Telangana,2019,11,November,68.92105797522692
+Hyderabad,Telangana,2020,12,December,71.71313363798386
+Hyderabad,Telangana,2021,12,December,71.2973793526461
+Hyderabad,Telangana,2022,3,March,57.62302591438778
+Hyderabad,Telangana,2023,2,February,52.05107290083584
+Hyderabad,Telangana,2024,11,November,50.39347870529552
+Hyderabad,Telangana,2025,12,December,110.28107259734188
+Imphal,Manipur,2022,12,December,47.579790066564264
+Imphal,Manipur,2023,3,March,57.08159052936214
+Imphal,Manipur,2024,10,October,162.73742138995382
+Indore,Madhya Pradesh,2019,12,December,73.76503240122491
+Indore,Madhya Pradesh,2020,11,November,78.47285804473304
+Indore,Madhya Pradesh,2021,11,November,85.47119360902255
+Indore,Madhya Pradesh,2022,1,January,63.30869623655914
+Indore,Madhya Pradesh,2023,11,November,102.10981481481483
+Indore,Madhya Pradesh,2024,11,November,72.07970589176031
+Indore,Madhya Pradesh,2025,4,April,39.35582706407709
+Jabalpur,Madhya Pradesh,2019,12,December,107.30352342549924
+Jabalpur,Madhya Pradesh,2020,11,November,98.95731732167462
+Jabalpur,Madhya Pradesh,2021,1,January,106.72858686485348
+Jabalpur,Madhya Pradesh,2022,12,December,101.90896446295639
+Jabalpur,Madhya Pradesh,2023,1,January,104.4324436763953
+Jabalpur,Madhya Pradesh,2024,1,January,76.68091380351113
+Jabalpur,Madhya Pradesh,2025,4,April,30.641164304982354
+Jaipur,Rajasthan,2019,11,November,71.48505074622996
+Jaipur,Rajasthan,2020,11,November,84.63433689994534
+Jaipur,Rajasthan,2021,11,November,102.28877892165443
+Jaipur,Rajasthan,2022,5,May,85.18999391068641
+Jaipur,Rajasthan,2023,11,November,111.7430277572161
+Jaipur,Rajasthan,2024,1,January,109.07571618692445
+Jaipur,Rajasthan,2025,4,April,53.730590592049445
+Jaisalmer,Rajasthan,2023,11,November,103.94229569243156
+Jaisalmer,Rajasthan,2024,1,January,95.10003384121723
+Jalandhar,Punjab,2019,11,November,88.39604649758454
+Jalandhar,Punjab,2020,11,November,89.95425219587176
+Jalandhar,Punjab,2021,11,November,102.68348788976725
+Jalandhar,Punjab,2022,12,December,79.90412469718221
+Jalandhar,Punjab,2023,11,November,104.85076165031961
+Jalandhar,Punjab,2024,11,November,94.60667701863353
+Jalandhar,Punjab,2025,4,April,49.659230676328505
+Jalgaon,Maharashtra,2023,11,November,83.77786269971976
+Jalgaon,Maharashtra,2024,11,November,102.1671474256293
+Jalgaon,Maharashtra,2025,4,April,47.65890701432434
+Jalna,Maharashtra,2023,11,November,65.82182291271107
+Jalna,Maharashtra,2024,3,March,80.18334144996346
+Jalna,Maharashtra,2025,4,April,51.94912756037629
+Jalore,Rajasthan,2023,11,November,83.93703658522905
+Jalore,Rajasthan,2024,12,December,89.86980423094903
+Jhalawar,Rajasthan,2023,11,November,94.50751838079499
+Jhalawar,Rajasthan,2024,1,January,90.67810536996897
+Jhansi,Uttar Pradesh,2022,11,November,75.72602163693794
+Jhansi,Uttar Pradesh,2023,11,November,73.8186007936508
+Jhansi,Uttar Pradesh,2024,11,November,55.77743055555556
+Jhansi,Uttar Pradesh,2025,8,August,55.46895395044413
+Jhunjhunu,Rajasthan,2023,11,November,135.86343401128568
+Jhunjhunu,Rajasthan,2024,11,November,118.20787312008223
+Jind,Haryana,2019,11,November,196.87534305555556
+Jind,Haryana,2020,11,November,213.7607289510007
+Jind,Haryana,2021,11,November,224.7607694683407
+Jind,Haryana,2022,11,November,155.8121996751871
+Jind,Haryana,2023,11,November,181.9425244399939
+Jind,Haryana,2024,11,November,137.82002165678523
+Jodhpur,Rajasthan,2019,5,May,114.1068766355197
+Jodhpur,Rajasthan,2020,11,November,108.15160918972332
+Jodhpur,Rajasthan,2021,11,November,108.53543901750423
+Jodhpur,Rajasthan,2022,5,May,97.05581114166154
+Jodhpur,Rajasthan,2023,11,November,83.09674044940225
+Jodhpur,Rajasthan,2024,11,November,79.48343965081663
+Jodhpur,Rajasthan,2025,4,April,39.83616144027533
+Jorapokhar,Jharkhand,2019,1,January,123.28920822065044
+Jorapokhar,Jharkhand,2020,2,February,75.02533874183703
+Jorapokhar,Jharkhand,2024,12,December,52.32060477766605
+Kadapa,Andhra Pradesh,2023,1,January,73.76140870320047
+Kadapa,Andhra Pradesh,2024,5,May,77.4399888875996
+Kadapa,Andhra Pradesh,2025,9,September,52.88375000000001
+Kaithal,Haryana,2019,11,November,90.86278380528066
+Kaithal,Haryana,2020,11,November,142.7808244776962
+Kaithal,Haryana,2021,11,November,155.83689804004604
+Kaithal,Haryana,2022,11,November,126.4789681880921
+Kaithal,Haryana,2023,11,November,166.67806972350314
+Kaithal,Haryana,2024,11,November,110.95350409637189
+Kalaburagi,Karnataka,2019,6,June,91.35536070137591
+Kalaburagi,Karnataka,2020,10,October,118.95746553895378
+Kalaburagi,Karnataka,2021,12,December,78.19073452928284
+Kalaburagi,Karnataka,2022,11,November,70.02213250988143
+Kalaburagi,Karnataka,2023,2,February,64.10809153535764
+Kalaburagi,Karnataka,2024,3,March,32.4711038340111
+Kalaburagi,Karnataka,2025,4,April,25.703703843298406
+Kalyan,Maharashtra,2019,11,November,62.11204613212874
+Kalyan,Maharashtra,2020,12,December,97.76209149299316
+Kalyan,Maharashtra,2021,1,January,124.64002083604801
+Kalyan,Maharashtra,2022,2,February,97.24309900832863
+Kalyan,Maharashtra,2023,1,January,73.39798263100747
+Kalyan,Maharashtra,2024,12,December,57.36595956054231
+Kanchipuram,Tamil Nadu,2022,12,December,28.16998338196091
+Kanchipuram,Tamil Nadu,2023,2,February,39.37807305874552
+Kanchipuram,Tamil Nadu,2024,1,January,40.7182650857914
+Kannur,Kerala,2020,2,February,62.445811008637094
+Kannur,Kerala,2021,2,February,52.27041666666667
+Kannur,Kerala,2022,12,December,43.31575268817205
+Kannur,Kerala,2023,1,January,53.8988998237226
+Kannur,Kerala,2024,5,May,38.814622413968884
+Kanpur,Uttar Pradesh,2019,1,January,213.34684125740162
+Kanpur,Uttar Pradesh,2020,12,December,231.01937351113466
+Kanpur,Uttar Pradesh,2021,1,January,178.69788412353293
+Kanpur,Uttar Pradesh,2022,11,November,104.0628734177524
+Kanpur,Uttar Pradesh,2023,1,January,84.475556494813
+Kanpur,Uttar Pradesh,2024,11,November,76.92538026555432
+Kanpur,Uttar Pradesh,2025,4,April,42.88398207690055
+Karauli,Rajasthan,2023,12,December,71.268471712666
+Karauli,Rajasthan,2024,1,January,125.56179110052588
+Karnal,Haryana,2019,11,November,139.5119677677395
+Karnal,Haryana,2020,10,October,107.31445127410495
+Karnal,Haryana,2021,11,November,123.70269884403037
+Karnal,Haryana,2022,12,December,90.58330666523506
+Karnal,Haryana,2023,11,November,109.83400189808357
+Karnal,Haryana,2024,11,November,94.81712384237933
+Karur,Tamil Nadu,2024,11,November,41.65300125973695
+Karwar,Karnataka,2023,12,December,63.61672805958131
+Karwar,Karnataka,2024,1,January,44.54873572430375
+Kashipur,Uttarakhand,2023,2,February,56.68832826967593
+Kashipur,Uttarakhand,2024,1,January,80.84751689045183
+Kashipur,Uttarakhand,2025,4,April,50.20342254062363
+Katihar,Bihar,2021,11,November,175.92682567976686
+Katihar,Bihar,2022,12,December,264.9764576379183
+Katihar,Bihar,2023,1,January,242.47874776871097
+Katihar,Bihar,2024,1,January,99.3923527583001
+Katni,Madhya Pradesh,2019,12,December,121.7714748289345
+Katni,Madhya Pradesh,2020,12,December,127.25636040706605
+Katni,Madhya Pradesh,2021,11,November,121.18246843434343
+Katni,Madhya Pradesh,2022,12,December,111.778570275904
+Katni,Madhya Pradesh,2023,1,January,125.38441877296997
+Katni,Madhya Pradesh,2024,11,November,74.23819444444445
+Keonjhar,Odisha,2022,12,December,83.36707943743183
+Keonjhar,Odisha,2023,1,January,100.24042256895746
+Keonjhar,Odisha,2024,1,January,94.0395824529608
+Khanna,Punjab,2019,11,November,71.40699110994859
+Khanna,Punjab,2020,11,November,85.71860519323671
+Khanna,Punjab,2021,11,November,94.0765422705314
+Khanna,Punjab,2022,11,November,78.44154227053141
+Khanna,Punjab,2023,11,November,91.94543744967794
+Khanna,Punjab,2024,11,November,85.17302759048283
+Khanna,Punjab,2025,4,April,49.0668768115942
+Khurja,Uttar Pradesh,2022,12,December,92.11776601641593
+Khurja,Uttar Pradesh,2023,1,January,89.52531474014337
+Khurja,Uttar Pradesh,2024,11,November,100.68895689495689
+Khurja,Uttar Pradesh,2025,6,June,47.83820290576688
+Kishanganj,Bihar,2021,12,December,160.24936499918965
+Kishanganj,Bihar,2022,1,January,186.33765070364765
+Kishanganj,Bihar,2023,1,January,157.67068269602456
+Kishanganj,Bihar,2024,12,December,58.267140320126735
+Kohima,Nagaland,2025,4,April,35.88362305926762
+Kolar,Karnataka,2019,1,January,46.49500609059413
+Kolar,Karnataka,2020,10,October,12.66
+Kolar,Karnataka,2021,12,December,51.37040011928987
+Kolar,Karnataka,2022,3,March,54.40033797075878
+Kolar,Karnataka,2023,3,March,47.034332398742976
+Kolar,Karnataka,2024,4,April,54.7208028712464
+Kolhapur,Maharashtra,2023,12,December,61.19694038491108
+Kolhapur,Maharashtra,2024,11,November,76.4896607573226
+Kolhapur,Maharashtra,2025,4,April,32.83349683460503
+Kolkata,West Bengal,2019,1,January,201.9358087891538
+Kolkata,West Bengal,2020,12,December,145.2477141468359
+Kolkata,West Bengal,2021,1,January,133.92571748516585
+Kolkata,West Bengal,2022,12,December,125.97944902513716
+Kolkata,West Bengal,2023,1,January,112.43316286307146
+Kolkata,West Bengal,2024,1,January,110.09734407889913
+Kolkata,West Bengal,2025,1,January,175.5868523949169
+Kollam,Kerala,2020,12,December,65.42434263681233
+Kollam,Kerala,2021,2,February,59.74323461078395
+Kollam,Kerala,2022,1,January,39.71054685366421
+Kollam,Kerala,2023,12,December,47.081120019451006
+Kollam,Kerala,2024,1,January,66.7093989567622
+Koppal,Karnataka,2020,12,December,44.20496515151515
+Koppal,Karnataka,2021,1,January,31.694878161568568
+Koppal,Karnataka,2022,10,October,51.11480300301148
+Koppal,Karnataka,2023,10,October,31.688178023598265
+Koppal,Karnataka,2024,12,December,31.998310775719958
+Korba,Chhattisgarh,2022,10,October,41.697515302481335
+Korba,Chhattisgarh,2023,1,January,62.70343891347978
+Korba,Chhattisgarh,2024,12,December,31.861942559384556
+Korba,Chhattisgarh,2025,4,April,51.671468349384114
+Kota,Rajasthan,2019,1,January,74.82691678354371
+Kota,Rajasthan,2020,11,November,82.81368487385731
+Kota,Rajasthan,2021,11,November,120.22892870265805
+Kota,Rajasthan,2022,5,May,84.24762314578828
+Kota,Rajasthan,2023,11,November,128.2983757238932
+Kota,Rajasthan,2024,1,January,119.16020638330835
+Kota,Rajasthan,2025,4,April,52.288636029687744
+Kozhikode,Kerala,2020,1,January,39.21174250530172
+Kozhikode,Kerala,2021,1,January,32.18710490430622
+Kozhikode,Kerala,2022,12,December,67.86100973639056
+Kozhikode,Kerala,2023,1,January,45.0
+Kunjemura,Chhattisgarh,2023,12,December,31.532479886902486
+Kunjemura,Chhattisgarh,2024,4,April,48.656040292790664
+Kurukshetra,Haryana,2019,11,November,138.39350240447956
+Kurukshetra,Haryana,2020,11,November,138.43518342603875
+Kurukshetra,Haryana,2021,11,November,143.402391083715
+Kurukshetra,Haryana,2022,11,November,111.40535138392202
+Kurukshetra,Haryana,2023,11,November,120.13799281636237
+Kurukshetra,Haryana,2024,11,November,102.4932326103848
+Latur,Maharashtra,2023,11,November,64.38560679492635
+Latur,Maharashtra,2024,11,November,76.02594578844713
+Latur,Maharashtra,2025,4,April,48.08235767300333
+Lucknow,Uttar Pradesh,2019,11,November,186.38039728809838
+Lucknow,Uttar Pradesh,2020,12,December,213.09148928119063
+Lucknow,Uttar Pradesh,2021,1,January,177.18447130984984
+Lucknow,Uttar Pradesh,2022,12,December,99.16732404639633
+Lucknow,Uttar Pradesh,2023,11,November,105.7492579890429
+Lucknow,Uttar Pradesh,2024,11,November,111.31764088337609
+Lucknow,Uttar Pradesh,2025,4,April,61.25666922318224
+Ludhiana,Punjab,2019,6,June,82.37423027690699
+Ludhiana,Punjab,2020,11,November,92.99963265593458
+Ludhiana,Punjab,2021,11,November,102.60644927536232
+Ludhiana,Punjab,2022,11,November,102.89297679888126
+Ludhiana,Punjab,2023,11,November,109.03868382648953
+Ludhiana,Punjab,2024,11,November,109.39882503607504
+Ludhiana,Punjab,2025,6,June,60.26044989752598
+Madikeri,Karnataka,2020,12,December,24.034427594670408
+Madikeri,Karnataka,2021,3,March,31.778225806451612
+Madikeri,Karnataka,2022,2,February,36.408482142857146
+Madikeri,Karnataka,2023,12,December,25.04529852521949
+Madikeri,Karnataka,2024,3,March,28.131975806451614
+Madurai,TamilNadu,2024,12,December,26.913914382094664
+Madurai,TamilNadu,2025,4,April,23.64440735730346
+Mahad,Maharashtra,2023,12,December,61.29161770450945
+Mahad,Maharashtra,2024,11,November,84.83333148915554
+Maihar,Madhya Pradesh,2019,12,December,43.47319002362147
+Maihar,Madhya Pradesh,2020,12,December,38.4302382622053
+Maihar,Madhya Pradesh,2021,1,January,54.30371332371332
+Maihar,Madhya Pradesh,2022,11,November,26.177055555555558
+Maihar,Madhya Pradesh,2023,11,November,51.33919238123994
+Maihar,Madhya Pradesh,2024,1,January,38.81575268817205
+Malegaon,Maharashtra,2023,11,November,63.2494135060491
+Malegaon,Maharashtra,2024,11,November,95.80935320597277
+Mandi Gobindgarh,Punjab,2019,12,December,118.8341948866154
+Mandi Gobindgarh,Punjab,2020,11,November,96.42340305572283
+Mandi Gobindgarh,Punjab,2021,12,December,98.57170254846604
+Mandi Gobindgarh,Punjab,2022,4,April,104.00602988346195
+Mandi Gobindgarh,Punjab,2023,11,November,115.01598823063986
+Mandi Gobindgarh,Punjab,2024,11,November,105.41254924242425
+Mandi Gobindgarh,Punjab,2025,4,April,68.7596051803359
+Mandideep,Madhya Pradesh,2019,1,January,82.33041140719963
+Mandideep,Madhya Pradesh,2020,12,December,72.76867022256224
+Mandideep,Madhya Pradesh,2021,1,January,77.45045798346113
+Mandideep,Madhya Pradesh,2022,2,February,61.156717702891434
+Mandideep,Madhya Pradesh,2023,2,February,72.7668861953543
+Mandideep,Madhya Pradesh,2024,11,November,130.39968391976026
+Manesar,Haryana,2019,11,November,144.9343773688092
+Manesar,Haryana,2020,11,November,162.82642575208607
+Manesar,Haryana,2021,11,November,193.54479068366038
+Manesar,Haryana,2022,1,January,137.18165580049438
+Manesar,Haryana,2023,11,November,153.98624602455718
+Manesar,Haryana,2024,11,November,111.14945334333187
+Mangalore,Karnataka,2021,2,February,46.793441955042894
+Mangalore,Karnataka,2022,12,December,42.572572644396274
+Mangalore,Karnataka,2023,2,February,58.87890868767907
+Mangalore,Karnataka,2024,1,January,39.169109200455026
+Manguraha,Bihar,2021,11,November,92.66666666666669
+Manguraha,Bihar,2022,4,April,79.11971702362982
+Manguraha,Bihar,2023,4,April,114.16779324373348
+Manguraha,Bihar,2024,1,January,58.944684536053565
+Meerut,Uttar Pradesh,2019,11,November,159.0564193189353
+Meerut,Uttar Pradesh,2020,12,December,180.6113069769075
+Meerut,Uttar Pradesh,2021,11,November,202.980524073125
+Meerut,Uttar Pradesh,2022,1,January,129.5139625447618
+Meerut,Uttar Pradesh,2023,11,November,188.30250247739377
+Meerut,Uttar Pradesh,2024,11,November,133.60104265369708
+Meerut,Uttar Pradesh,2025,4,April,54.96427014257672
+Milupara,Chhattisgarh,2023,12,December,29.174462404842618
+Milupara,Chhattisgarh,2024,11,November,43.2968346945719
+Mira-Bhayandar,Maharashtra,2023,10,October,79.87132694757426
+Mira-Bhayandar,Maharashtra,2024,11,November,80.43213829868624
+Moradabad,Uttar Pradesh,2019,1,January,189.56157950472465
+Moradabad,Uttar Pradesh,2020,11,November,192.95498458063676
+Moradabad,Uttar Pradesh,2021,2,February,184.7146091469361
+Moradabad,Uttar Pradesh,2022,1,January,88.09655695946437
+Moradabad,Uttar Pradesh,2023,11,November,79.00295617942234
+Moradabad,Uttar Pradesh,2024,11,November,71.29656787337801
+Moradabad,Uttar Pradesh,2025,8,August,31.176742824923625
+Motihari,Bihar,2021,11,November,206.3413152446333
+Motihari,Bihar,2022,11,November,248.807042145053
+Motihari,Bihar,2023,11,November,127.74246878186936
+Motihari,Bihar,2024,1,January,85.77650065213078
+Mumbai,Maharashtra,2019,12,December,80.4203164316019
+Mumbai,Maharashtra,2020,12,December,77.55969503394454
+Mumbai,Maharashtra,2021,1,January,96.97684601297223
+Mumbai,Maharashtra,2022,12,December,88.89374178350185
+Mumbai,Maharashtra,2023,1,January,93.65961086918115
+Mumbai,Maharashtra,2024,11,November,65.39613170673434
+Mumbai,Maharashtra,2025,1,January,92.59581564998817
+Munger,Bihar,2021,11,November,186.66415451276947
+Munger,Bihar,2022,1,January,229.68876820335424
+Munger,Bihar,2023,1,January,172.26751433547958
+Munger,Bihar,2024,6,June,91.48196795911682
+Muzaffarnagar,Uttar Pradesh,2019,1,January,176.00873655913978
+Muzaffarnagar,Uttar Pradesh,2020,12,December,157.2278861343168
+Muzaffarnagar,Uttar Pradesh,2021,11,November,172.2505983750549
+Muzaffarnagar,Uttar Pradesh,2022,12,December,149.467949657869
+Muzaffarnagar,Uttar Pradesh,2023,12,December,154.9257591238641
+Muzaffarnagar,Uttar Pradesh,2024,1,January,134.11045943304006
+Muzaffarpur,Bihar,2019,1,January,223.62806058776167
+Muzaffarpur,Bihar,2020,1,January,202.26986179289386
+Muzaffarpur,Bihar,2021,12,December,171.07584114368825
+Muzaffarpur,Bihar,2022,12,December,195.9918505389696
+Muzaffarpur,Bihar,2023,1,January,179.3367658764777
+Muzaffarpur,Bihar,2024,1,January,123.60325253718256
+Muzaffarpur,Bihar,2025,4,April,46.11868609845661
+Mysuru,Karnataka,2019,11,November,32.665166482329006
+Mysuru,Karnataka,2020,1,January,34.19808361717759
+Mysuru,Karnataka,2021,2,February,32.778874905891215
+Mysuru,Karnataka,2022,3,March,26.294845206666114
+Mysuru,Karnataka,2023,12,December,26.394533008025558
+Mysuru,Karnataka,2024,1,January,28.516263207106125
+Nagaon,Assam,2023,2,February,116.50536495280814
+Nagaon,Assam,2024,1,January,92.66566613941615
+Nagaon,Assam,2025,5,May,39.97237804680125
+Nagapattinam,Tamil Nadu,2024,12,December,34.23091946387455
+Nagaur,Rajasthan,2023,11,November,106.31291071469848
+Nagaur,Rajasthan,2024,12,December,83.61237395260187
+Nagpur,Maharashtra,2019,1,January,79.54987914305026
+Nagpur,Maharashtra,2020,12,December,48.53343191229268
+Nagpur,Maharashtra,2021,12,December,65.57867650103519
+Nagpur,Maharashtra,2022,12,December,101.34244915848527
+Nagpur,Maharashtra,2023,1,January,95.58941786883055
+Nagpur,Maharashtra,2024,11,November,83.14237796558017
+Nagpur,Maharashtra,2025,4,April,52.00789785278551
+Naharlagun,Arunachal Pradesh,2021,3,March,32.74541787439614
+Naharlagun,Arunachal Pradesh,2022,3,March,51.716845027023325
+Naharlagun,Arunachal Pradesh,2023,12,December,32.28545841691378
+Naharlagun,Arunachal Pradesh,2024,3,March,47.43218051948052
+Nalbari,Assam,2022,12,December,113.66116039426522
+Nalbari,Assam,2023,1,January,166.4017068001443
+Nalbari,Assam,2024,1,January,150.6594844971347
+Nalbari,Assam,2025,9,September,70.6370588235294
+Nanded,Maharashtra,2023,10,October,57.70130499686894
+Nanded,Maharashtra,2024,11,November,67.64681267749964
+Nandesari,Gujarat,2020,8,August,102.69921795309953
+Nandesari,Gujarat,2021,9,September,85.91193323644954
+Nandesari,Gujarat,2022,10,October,80.31697315441767
+Nandesari,Gujarat,2023,7,July,227.71712962962962
+Nandesari,Gujarat,2024,3,March,103.70005697755961
+Narnaul,Haryana,2019,11,November,96.45217184182496
+Narnaul,Haryana,2020,11,November,106.11617948553058
+Narnaul,Haryana,2021,11,November,128.35371887351778
+Narnaul,Haryana,2022,11,November,76.7348172015183
+Narnaul,Haryana,2023,11,November,141.98920123887436
+Narnaul,Haryana,2024,12,December,112.01205966139123
+Nashik,Maharashtra,2019,12,December,56.441046205138946
+Nashik,Maharashtra,2020,12,December,59.2681306898278
+Nashik,Maharashtra,2021,12,December,67.51387503811608
+Nashik,Maharashtra,2022,11,November,74.05642846947738
+Nashik,Maharashtra,2023,11,November,66.87527990080493
+Nashik,Maharashtra,2024,11,November,83.03113137641175
+Nashik,Maharashtra,2025,4,April,43.91938892751817
+Navi Mumbai,Maharashtra,2019,12,December,91.12843270854711
+Navi Mumbai,Maharashtra,2020,12,December,101.24098096688648
+Navi Mumbai,Maharashtra,2021,1,January,126.07778120773338
+Navi Mumbai,Maharashtra,2022,12,December,105.38100624784613
+Navi Mumbai,Maharashtra,2023,2,February,140.33087057213046
+Navi Mumbai,Maharashtra,2024,1,January,68.7765953136786
+Navi Mumbai,Maharashtra,2025,4,April,39.3993988135987
+Nayagarh,Odisha,2022,12,December,69.85316706917371
+Nayagarh,Odisha,2023,3,March,96.02989923664947
+Nayagarh,Odisha,2024,4,April,89.11806958393369
+New Delhi,Delhi,2019,12,December,212.34408602150535
+New Delhi,Delhi,2020,11,November,200.53939393939393
+New Delhi,Delhi,2021,11,November,228.47442810457514
+New Delhi,Delhi,2022,12,December,182.2394845034788
+New Delhi,Delhi,2023,11,November,234.49751461988305
+New Delhi,Delhi,2024,1,January,242.79528985507244
+New Delhi,Delhi,2025,12,December,216.34561908404825
+Noida,Uttar Pradesh,2019,12,December,230.36842781359238
+Noida,Uttar Pradesh,2020,11,November,218.178186904945
+Noida,Uttar Pradesh,2021,11,November,227.5414957687244
+Noida,Uttar Pradesh,2022,12,December,130.50124333416505
+Noida,Uttar Pradesh,2023,11,November,195.90772776253937
+Noida,Uttar Pradesh,2024,1,January,168.80168433222897
+Noida,Uttar Pradesh,2025,5,May,52.065670380187164
+Ooty,Tamil Nadu,2022,11,November,27.437939072856746
+Ooty,Tamil Nadu,2023,5,May,44.1976641293927
+Ooty,Tamil Nadu,2024,3,March,33.7181863639694
+Pali,Rajasthan,2019,4,April,78.46857161431245
+Pali,Rajasthan,2020,11,November,63.81919586235021
+Pali,Rajasthan,2021,3,March,85.57162185274804
+Pali,Rajasthan,2022,5,May,72.63490381679894
+Pali,Rajasthan,2023,12,December,92.67230535165316
+Pali,Rajasthan,2024,12,December,102.11053955944229
+Palwal,Haryana,2019,11,November,161.09009290095022
+Palwal,Haryana,2020,1,January,120.85580680228956
+Palwal,Haryana,2021,11,November,68.69707791973897
+Palwal,Haryana,2022,5,May,49.968590789337874
+Palwal,Haryana,2023,11,November,58.03132788382903
+Palwal,Haryana,2024,11,November,63.60846805052719
+Panchkula,Haryana,2019,12,December,62.43663978494624
+Panchkula,Haryana,2020,12,December,94.99607996031746
+Panchkula,Haryana,2021,12,December,73.7823399315738
+Panchkula,Haryana,2022,1,January,85.68553179055634
+Panchkula,Haryana,2023,1,January,78.1394120641903
+Panchkula,Haryana,2024,11,November,93.07854830917874
+Panipat,Haryana,2019,11,November,183.71407027707252
+Panipat,Haryana,2020,11,November,98.93381180705484
+Panipat,Haryana,2021,11,November,107.22576659608508
+Panipat,Haryana,2022,4,April,96.00387090989733
+Panipat,Haryana,2023,11,November,107.96724788028206
+Panipat,Haryana,2024,11,November,106.47630493130058
+Parbhani,Maharashtra,2023,11,November,69.82737323872786
+Parbhani,Maharashtra,2024,11,November,98.2200637617593
+Pathardih,Jharkhand,2023,12,December,50.12706529076496
+Pathardih,Jharkhand,2024,4,April,56.717701817279945
+Patiala,Punjab,2019,11,November,86.17240510697032
+Patiala,Punjab,2020,11,November,92.28211893939394
+Patiala,Punjab,2021,11,November,107.9427908816425
+Patiala,Punjab,2022,11,November,80.12711381074169
+Patiala,Punjab,2023,11,November,97.66656691461718
+Patiala,Punjab,2024,11,November,92.21768719806762
+Patiala,Punjab,2025,4,April,52.904953340614384
+Patna,Bihar,2019,1,January,260.6248472629521
+Patna,Bihar,2020,12,December,169.19923561686352
+Patna,Bihar,2021,12,December,131.11355590174855
+Patna,Bihar,2022,12,December,212.13693426293537
+Patna,Bihar,2023,1,January,183.6922482075868
+Patna,Bihar,2024,1,January,136.76591174238223
+Patna,Bihar,2025,4,April,58.428542549906595
+Perundurai,TamilNadu,2024,11,November,40.143878766231225
+Pimpri-Chinchwad,Maharashtra,2023,12,December,89.13894081369956
+Pimpri-Chinchwad,Maharashtra,2024,11,November,97.51438847881518
+Pithampur,Madhya Pradesh,2019,12,December,76.97482250582243
+Pithampur,Madhya Pradesh,2020,11,November,72.67618309814391
+Pithampur,Madhya Pradesh,2021,1,January,82.47094380401657
+Pithampur,Madhya Pradesh,2022,12,December,74.8476069424965
+Pithampur,Madhya Pradesh,2023,12,December,76.64952956989247
+Pithampur,Madhya Pradesh,2024,12,December,82.87365711909827
+Pratapgarh,Rajasthan,2023,12,December,70.53059832192898
+Pratapgarh,Rajasthan,2024,12,December,62.40161152195164
+Prayagraj,Uttar Pradesh,2021,11,November,134.12588943436216
+Prayagraj,Uttar Pradesh,2022,11,November,71.28489764859245
+Prayagraj,Uttar Pradesh,2023,11,November,89.18174370019042
+Prayagraj,Uttar Pradesh,2024,1,January,62.16210667524134
+Prayagraj,Uttar Pradesh,2025,4,April,39.45546702630611
+Puducherry,Puducherry,2021,12,December,36.6765148858855
+Puducherry,Puducherry,2022,12,December,39.56309279162385
+Puducherry,Puducherry,2023,1,January,42.40266577060932
+Puducherry,Puducherry,2024,1,January,37.2353669704884
+Pudukottai,TamilNadu,2024,12,December,43.45952754773407
+Pune,Maharashtra,2019,1,January,88.21614582005185
+Pune,Maharashtra,2020,1,January,77.10739890135577
+Pune,Maharashtra,2021,12,December,79.21524431496287
+Pune,Maharashtra,2022,8,August,403.9011827445524
+Pune,Maharashtra,2023,2,February,78.92090156446844
+Pune,Maharashtra,2024,11,November,69.53218897026827
+Pune,Maharashtra,2025,4,April,43.65841543941653
+Purnia,Bihar,2021,11,November,181.6045034461153
+Purnia,Bihar,2022,12,December,271.71357759876867
+Purnia,Bihar,2023,1,January,226.1180287069106
+Purnia,Bihar,2024,1,January,110.65556416448597
+Raichur,Karnataka,2020,12,December,64.46682366071428
+Raichur,Karnataka,2021,12,December,63.36068654684096
+Raichur,Karnataka,2022,3,March,51.74779400434429
+Raichur,Karnataka,2023,10,October,29.61372059878703
+Raichur,Karnataka,2024,1,January,24.835988381905636
+Raipur,Chhattisgarh,2022,10,October,54.510575715134536
+Raipur,Chhattisgarh,2023,12,December,49.295924302476756
+Raipur,Chhattisgarh,2024,11,November,47.94173103189643
+Raipur,Chhattisgarh,2025,4,April,28.866793395641317
+Rairangpur,Odisha,2022,12,December,85.5685325753821
+Rairangpur,Odisha,2023,1,January,95.84499876192545
+Rairangpur,Odisha,2024,1,January,84.32046018483895
+Rajamahendravaram,Andhra Pradesh,2019,1,January,95.73857526881721
+Rajamahendravaram,Andhra Pradesh,2020,12,December,76.78504224270354
+Rajamahendravaram,Andhra Pradesh,2021,1,January,73.14453685094094
+Rajamahendravaram,Andhra Pradesh,2022,12,December,61.936043906810035
+Rajamahendravaram,Andhra Pradesh,2023,1,January,77.05712365591398
+Rajamahendravaram,Andhra Pradesh,2024,1,January,83.68092415330796
+Rajamahendravaram,Andhra Pradesh,2025,6,June,23.673402777777778
+Rajgir,Bihar,2021,12,December,150.92430846291865
+Rajgir,Bihar,2022,12,December,192.69771190374377
+Rajgir,Bihar,2023,1,January,191.89309201567562
+Rajgir,Bihar,2024,1,January,151.49120544015537
+Rajsamand,Rajasthan,2023,12,December,76.54703849504865
+Rajsamand,Rajasthan,2024,12,December,72.3835352547241
+Ramanagara,Karnataka,2019,11,November,30.881150793650793
+Ramanagara,Karnataka,2020,12,December,34.51362550373243
+Ramanagara,Karnataka,2021,12,December,45.078223301943495
+Ramanagara,Karnataka,2022,3,March,45.86373260738052
+Ramanagara,Karnataka,2023,1,January,44.81726030465949
+Ramanagara,Karnataka,2024,11,November,41.05146437198068
+Ramanathapuram,TamilNadu,2022,11,November,30.952877230470584
+Ramanathapuram,TamilNadu,2023,12,December,30.554317360137137
+Ramanathapuram,TamilNadu,2024,8,August,59.606212957808154
+Ranipet,Tamil Nadu,2024,11,November,46.02220609473329
+Ratlam,Madhya Pradesh,2019,1,January,72.03298614491455
+Ratlam,Madhya Pradesh,2020,11,November,68.24322494266335
+Ratlam,Madhya Pradesh,2021,1,January,64.89644128459747
+Ratlam,Madhya Pradesh,2022,5,May,62.33793107908233
+Ratlam,Madhya Pradesh,2023,11,November,71.75037326388889
+Ratlam,Madhya Pradesh,2024,11,November,63.684212285902504
+Rishikesh,Uttarakhand,2023,12,December,41.24346082314394
+Rishikesh,Uttarakhand,2024,11,November,56.034733634296934
+Rishikesh,Uttarakhand,2025,4,April,35.4377181722422
+Rohtak,Haryana,2019,11,November,150.10140476190475
+Rohtak,Haryana,2020,11,November,177.3613913372859
+Rohtak,Haryana,2021,11,November,180.71835249231444
+Rohtak,Haryana,2022,5,May,121.76883012908084
+Rohtak,Haryana,2023,11,November,177.1990915358293
+Rohtak,Haryana,2024,11,November,122.4669827219564
+Rourkela,Odisha,2022,11,November,99.42001207729467
+Rourkela,Odisha,2023,1,January,89.18661043681051
+Rourkela,Odisha,2024,1,January,73.92143078714959
+Rourkela,Odisha,2025,4,April,62.05984186302062
+Rupnagar,Punjab,2019,11,November,90.31258134920634
+Rupnagar,Punjab,2020,11,November,94.43527899524834
+Rupnagar,Punjab,2021,11,November,94.02862689393938
+Rupnagar,Punjab,2022,11,November,66.08821304347826
+Rupnagar,Punjab,2023,12,December,94.38363947820179
+Rupnagar,Punjab,2024,1,January,88.57115032905934
+Sagar,Madhya Pradesh,2020,11,November,70.12116996047432
+Sagar,Madhya Pradesh,2021,11,November,64.95733874231857
+Sagar,Madhya Pradesh,2022,5,May,51.25975811688311
+Sagar,Madhya Pradesh,2023,11,November,52.71936485963609
+Sagar,Madhya Pradesh,2024,12,December,59.429183374491224
+Sagar,Madhya Pradesh,2025,4,April,34.10386457518136
+Saharsa,Bihar,2021,11,November,152.8580357142857
+Saharsa,Bihar,2022,12,December,246.56118949588546
+Saharsa,Bihar,2023,1,January,219.81542322492174
+Saharsa,Bihar,2024,1,January,188.56860055729234
+Salem,Tamil Nadu,2022,12,December,35.60324742560178
+Salem,Tamil Nadu,2023,12,December,44.25335606151804
+Salem,Tamil Nadu,2024,1,January,44.17960439607713
+Samastipur,Bihar,2022,12,December,228.75683585328972
+Samastipur,Bihar,2023,1,January,198.16688250207363
+Samastipur,Bihar,2024,1,January,92.74447313352583
+Sangli,Maharashtra,2023,12,December,60.881543160264236
+Sangli,Maharashtra,2024,2,February,74.30425862068965
+Sangli,Maharashtra,2025,4,April,48.80149955054612
+Sasaram,Bihar,2021,12,December,153.08470755792266
+Sasaram,Bihar,2022,12,December,157.33491493836104
+Sasaram,Bihar,2023,1,January,151.97887644730213
+Sasaram,Bihar,2024,1,January,98.22643958316527
+Satna,Madhya Pradesh,2019,4,April,36.52921075977163
+Satna,Madhya Pradesh,2020,5,May,21.793261241446725
+Satna,Madhya Pradesh,2021,1,January,25.45036524076671
+Satna,Madhya Pradesh,2022,12,December,26.50131720430108
+Satna,Madhya Pradesh,2023,5,May,39.050746442333576
+Satna,Madhya Pradesh,2024,4,April,31.91392288061227
+Sawai Madhopur,Rajasthan,2023,11,November,93.54307544475117
+Sawai Madhopur,Rajasthan,2024,11,November,81.24407405770134
+Shillong,Meghalaya,2019,9,September,78.610382669261
+Shillong,Meghalaya,2020,2,February,48.684812101880944
+Shillong,Meghalaya,2021,1,January,28.219581392496394
+Shillong,Meghalaya,2022,12,December,37.96154897084289
+Shillong,Meghalaya,2023,2,February,64.87875436418645
+Shillong,Meghalaya,2024,2,February,53.62761806596701
+Shivamogga,Karnataka,2020,2,February,52.21021390594807
+Shivamogga,Karnataka,2021,1,January,44.00906176991086
+Shivamogga,Karnataka,2022,3,March,25.620118045815804
+Shivamogga,Karnataka,2023,12,December,24.935886791300096
+Shivamogga,Karnataka,2024,2,February,28.021644177911043
+Sikar,Rajasthan,2023,11,November,121.63741445249597
+Sikar,Rajasthan,2024,1,January,109.37898577287602
+Silchar,Assam,2023,2,February,20.656743784245144
+Silchar,Assam,2024,12,December,29.728363737286458
+Silchar,Assam,2025,4,April,23.63919709425272
+Siliguri,West Bengal,2019,1,January,108.12857302234933
+Siliguri,West Bengal,2020,2,February,119.83114894663059
+Siliguri,West Bengal,2021,1,January,131.9850809568334
+Siliguri,West Bengal,2022,3,March,82.09465711766028
+Siliguri,West Bengal,2023,1,January,86.00399101463442
+Siliguri,West Bengal,2024,1,January,74.46671597659704
+Singrauli,Madhya Pradesh,2019,1,January,153.5273585256492
+Singrauli,Madhya Pradesh,2020,12,December,150.57858520336606
+Singrauli,Madhya Pradesh,2021,12,December,157.74803851478114
+Singrauli,Madhya Pradesh,2022,12,December,151.68713154511454
+Singrauli,Madhya Pradesh,2023,1,January,128.90212831328716
+Singrauli,Madhya Pradesh,2024,11,November,120.47180253623189
+Sirohi,Rajasthan,2023,1,January,67.0
+Sirohi,Rajasthan,2024,12,December,71.96820757363254
+Sirsa,Haryana,2019,11,November,137.463537416788
+Sirsa,Haryana,2020,11,November,117.26451499641236
+Sirsa,Haryana,2021,11,November,120.84216568141368
+Sirsa,Haryana,2022,11,November,108.77884929261559
+Sirsa,Haryana,2023,11,November,121.86141435119832
+Sirsa,Haryana,2024,11,November,122.53838856808079
+Sivasagar,Assam,2022,12,December,25.66968500003245
+Sivasagar,Assam,2023,2,February,37.990253599400766
+Sivasagar,Assam,2024,12,December,33.22933311795363
+Sivasagar,Assam,2025,4,April,28.583398224164387
+Siwan,Bihar,2021,11,November,259.8592701863354
+Siwan,Bihar,2022,12,December,275.70759903881
+Siwan,Bihar,2023,1,January,222.98177438893873
+Siwan,Bihar,2024,11,November,79.9386908794549
+Solapur,Maharashtra,2019,1,January,66.87704154314888
+Solapur,Maharashtra,2020,12,December,55.18703766978697
+Solapur,Maharashtra,2021,1,January,61.063788015624226
+Solapur,Maharashtra,2022,11,November,55.07648764745356
+Solapur,Maharashtra,2023,11,November,54.95886442405008
+Solapur,Maharashtra,2024,3,March,61.343983759200675
+Solapur,Maharashtra,2025,4,April,40.34560783762491
+Sonipat,Haryana,2019,1,January,139.57067577980118
+Sonipat,Haryana,2020,11,November,114.18824146433276
+Sonipat,Haryana,2021,11,November,141.7492678360018
+Sonipat,Haryana,2022,11,November,106.81923937883326
+Sonipat,Haryana,2023,11,November,195.16920222125106
+Sonipat,Haryana,2024,11,November,145.80795836497296
+Sri Ganganagar,Rajasthan,2023,11,November,172.86222418974177
+Sri Ganganagar,Rajasthan,2024,1,January,159.06017586557763
+Suakati,Odisha,2022,12,December,80.55029259977901
+Suakati,Odisha,2023,1,January,95.76102054690014
+Suakati,Odisha,2024,1,January,83.10845985273492
+Surat,Gujarat,2022,11,November,111.0876017986159
+Surat,Gujarat,2023,11,November,92.71532843917974
+Surat,Gujarat,2024,11,November,80.01215413442004
+Surat,Gujarat,2025,7,July,95.90307712121685
+Talcher,Odisha,2019,1,January,105.51120409900213
+Talcher,Odisha,2020,1,January,155.72383923790096
+Talcher,Odisha,2021,1,January,63.19803317023273
+Talcher,Odisha,2022,12,December,91.44039588430893
+Talcher,Odisha,2023,12,December,139.9073980709469
+Talcher,Odisha,2024,1,January,125.46546121119619
+Talcher,Odisha,2025,4,April,45.660867497934014
+Tensa,Odisha,2022,11,November,73.3257095410628
+Tensa,Odisha,2023,1,January,80.0996351521164
+Tensa,Odisha,2024,12,December,59.61027214232828
+Thane,Maharashtra,2023,12,December,60.139820969803914
+Thane,Maharashtra,2024,11,November,76.80962082784366
+Thane,Maharashtra,2025,4,April,30.984095022883295
+Thanjavur,TamilNadu,2024,11,November,21.28738455116725
+Thiruvananthapuram,Kerala,2019,1,January,59.9417002688172
+Thiruvananthapuram,Kerala,2020,2,February,40.58763286189073
+Thiruvananthapuram,Kerala,2021,2,February,40.89175211051026
+Thiruvananthapuram,Kerala,2022,12,December,39.79425565890397
+Thiruvananthapuram,Kerala,2023,1,January,45.49148178210678
+Thiruvananthapuram,Kerala,2024,3,March,38.767318011095185
+Thrissur,Kerala,2020,12,December,37.48742424242424
+Thrissur,Kerala,2021,2,February,51.472589285714285
+Thrissur,Kerala,2022,2,February,47.22351512896825
+Thrissur,Kerala,2023,2,February,64.13528635050035
+Thrissur,Kerala,2024,1,January,30.52621954486923
+Tiruchirappalli,Tamil Nadu,2023,9,September,28.09771707455592
+Tiruchirappalli,Tamil Nadu,2024,1,January,25.753170670776843
+Tiruchirappalli,Tamil Nadu,2025,5,May,31.422518491138916
+Tirunelveli,Tamil Nadu,2024,11,November,15.772649759472365
+Tirupati,Andhra Pradesh,2022,11,November,48.593452733860346
+Tirupati,Andhra Pradesh,2023,4,April,64.89537877008443
+Tirupati,Andhra Pradesh,2024,10,October,63.84479692448094
+Tiruppur,Tamil Nadu,2022,11,November,74.12279217836337
+Tiruppur,Tamil Nadu,2023,2,February,40.619065830851305
+Tiruppur,Tamil Nadu,2024,1,January,26.34679927674008
+Tonk,Rajasthan,2023,11,November,143.95889765991225
+Tonk,Rajasthan,2024,11,November,101.76848952550718
+Tumakuru,Karnataka,2022,12,December,80.78733991929758
+Tumakuru,Karnataka,2023,1,January,116.40164044151757
+Tumakuru,Karnataka,2024,12,December,69.7925294642857
+Tumidih,Chhattisgarh,2023,3,March,49.99244654901196
+Tumidih,Chhattisgarh,2024,1,January,47.36293048745051
+Udaipur,Rajasthan,2019,1,January,72.22076833624351
+Udaipur,Rajasthan,2020,12,December,71.56510449870373
+Udaipur,Rajasthan,2021,1,January,87.9484375664074
+Udaipur,Rajasthan,2022,12,December,82.24536614390752
+Udaipur,Rajasthan,2023,1,January,74.19418089467608
+Udaipur,Rajasthan,2024,12,December,83.68065333330833
+Udaipur,Rajasthan,2025,4,April,47.929207158541935
+Udupi,Karnataka,2023,6,June,17.676812865497077
+Udupi,Karnataka,2024,11,November,37.422988515177934
+Ujjain,Madhya Pradesh,2019,1,January,87.91257616181214
+Ujjain,Madhya Pradesh,2020,12,December,82.90771096306686
+Ujjain,Madhya Pradesh,2021,1,January,82.86539705680752
+Ujjain,Madhya Pradesh,2022,11,November,73.9093888888889
+Ujjain,Madhya Pradesh,2023,3,March,134.17504026256074
+Ujjain,Madhya Pradesh,2024,11,November,81.81586111111112
+Ujjain,Madhya Pradesh,2025,5,May,214.63211111111113
+Ulhasnagar,Maharashtra,2023,11,November,89.2790114809559
+Ulhasnagar,Maharashtra,2024,1,January,84.301340894924
+Ulhasnagar,Maharashtra,2025,4,April,42.79845616883117
+Vapi,Gujarat,2019,12,December,120.83641921017272
+Vapi,Gujarat,2020,1,January,127.91819892473119
+Vapi,Gujarat,2021,1,January,107.70523743748849
+Vapi,Gujarat,2022,12,December,149.99637907172303
+Vapi,Gujarat,2023,2,February,159.06351498135572
+Vapi,Gujarat,2024,1,January,103.80485645626774
+Varanasi,Uttar Pradesh,2019,1,January,168.4414742622579
+Varanasi,Uttar Pradesh,2020,12,December,153.50562888198758
+Varanasi,Uttar Pradesh,2021,1,January,126.56889880952382
+Varanasi,Uttar Pradesh,2022,1,January,67.5414337841506
+Varanasi,Uttar Pradesh,2023,11,November,45.349217526078384
+Varanasi,Uttar Pradesh,2024,11,November,44.1666069396083
+Varanasi,Uttar Pradesh,2025,4,April,27.885627871845465
+Vatva,Gujarat,2019,2,February,80.48688095238096
+Vatva,Gujarat,2020,2,February,86.91415197915748
+Vatva,Gujarat,2021,3,March,109.87783819056119
+Vatva,Gujarat,2022,1,January,67.7528527371848
+Vatva,Gujarat,2023,2,February,85.19896035863292
+Vatva,Gujarat,2024,2,February,52.96570495542021
+Vellore,Tamil Nadu,2022,11,November,42.52504065679292
+Vellore,Tamil Nadu,2023,1,January,53.52780157313458
+Vellore,Tamil Nadu,2024,1,January,51.673264871530854
+Verified City,Verified State,2020,1,January,60.78629807692308
+Verified City,Verified State,2021,2,February,61.91155395155601
+Verified City,Verified State,2022,11,November,132.89384138443978
+Verified City,Verified State,2023,2,February,75.20036241344656
+Verified City,Verified State,2024,2,February,41.988086941377794
+Vijayapura,Karnataka,2020,2,February,55.842775198938995
+Vijayapura,Karnataka,2021,3,March,32.73663900988185
+Vijayapura,Karnataka,2022,12,December,22.54991935483871
+Vijayapura,Karnataka,2023,12,December,21.05933617084827
+Vijayapura,Karnataka,2024,11,November,22.877027777777776
+Vijayawada,Andhra Pradesh,2019,1,January,36.934957080981974
+Vijayawada,Andhra Pradesh,2020,11,November,12.86
+Vijayawada,Andhra Pradesh,2023,1,January,90.2309513615593
+Vijayawada,Andhra Pradesh,2024,2,February,42.56930503279041
+Vijayawada,Andhra Pradesh,2025,4,April,40.05818471561654
+Virar,Maharashtra,2023,12,December,68.64884243149497
+Virar,Maharashtra,2024,11,November,75.26928787878788
+Virar,Maharashtra,2025,4,April,24.07701934766001
+Virudhunagar,Tamil Nadu,2024,11,November,37.23791571895556
+Visakhapatnam,Andhra Pradesh,2019,1,January,114.789816154558
+Visakhapatnam,Andhra Pradesh,2020,12,December,96.14200507883888
+Visakhapatnam,Andhra Pradesh,2021,1,January,83.21149028578394
+Visakhapatnam,Andhra Pradesh,2022,12,December,78.69838985037032
+Visakhapatnam,Andhra Pradesh,2023,1,January,89.6629109030874
+Visakhapatnam,Andhra Pradesh,2024,1,January,87.45728472045722
+Visakhapatnam,Andhra Pradesh,2025,9,September,41.0
+Vrindavan,Uttar Pradesh,2021,11,November,184.8430374396135
+Vrindavan,Uttar Pradesh,2022,1,January,78.51739026414418
+Vrindavan,Uttar Pradesh,2023,11,November,73.06883740027082
+Vrindavan,Uttar Pradesh,2024,11,November,43.61816522366522
+Yadgir,Karnataka,2019,12,December,49.533692884033364
+Yadgir,Karnataka,2020,12,December,44.82751384509661
+Yadgir,Karnataka,2021,12,December,56.35324923079246
+Yadgir,Karnataka,2022,11,November,54.61373664530394
+Yadgir,Karnataka,2023,12,December,51.668928519434395
+Yadgir,Karnataka,2024,11,November,63.683038499025336
+Yamuna Nagar,Haryana,2019,10,October,124.08844036530508
+Yamuna Nagar,Haryana,2020,11,November,148.70750842103124
+Yamuna Nagar,Haryana,2021,11,November,129.63142398153374
+Yamuna Nagar,Haryana,2022,12,December,97.87681141853315
+Yamuna Nagar,Haryana,2023,1,January,93.26410940513632
+Yamuna Nagar,Haryana,2024,11,November,97.1880094819146

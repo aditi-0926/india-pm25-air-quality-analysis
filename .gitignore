@@ -1,0 +1,14 @@
+# Checkpoints & temp files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+~*
+*.twbr
+
+# Ignore all raw and large processed datasets
+data/raw/
+data/processed/*.csv
+
+# Exclude only small/essential aggregated CSV files if needed (uncomment specific ones):
+!data/processed/city_monthly_pm25.csv
+!data/processed/city_pm25_ranking.csv
+!data/processed/city_worst_month_by_year.csv
